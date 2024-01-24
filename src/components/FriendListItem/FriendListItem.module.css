@@ -1,0 +1,18 @@
+.online{ 
+    color: green;
+}
+.offline{ 
+    color: red;
+}
+.item{ 
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px 20px;
+    height: 130px;
+}
+.nameListItem{
+     font-size: 18px;
+     text-align: center;
+     margin-top: 10px;
+    margin-bottom: 6px;
+}
