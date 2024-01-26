@@ -1,6 +1,20 @@
 .transactionHistory {
-  border: 1px solid #8f8c8c;
+  border: 1px solid #3c3c3c;
   background-color: #000000;
-  color: white;
   margin: 0 auto 200px auto;
+}
+.trclass{
+  background-color: rgb(255, 255, 255);
+}
+.headTr{ 
+  color: white;
+  background-color: #3c3c3c;
+  text-align: center;
+} 
+.trclass:nth-child(even){ 
+  background-color: rgb(198, 202, 202);
+}
+.someClass{ 
+  padding: 0 30px;
+  text-transform: capitalize;
 }
